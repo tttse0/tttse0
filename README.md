@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### 💬 About me: I study AIST at CUHK. I like swimming and hiking.
 
 <!--
 **tttse0/tttse0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
